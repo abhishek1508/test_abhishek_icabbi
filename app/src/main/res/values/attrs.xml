@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ClearEditTextLayout">
+        <attr name="android:hint"/>
+        <attr name="android:imeOptions"/>
+        <attr name="android:inputType"/>
+    </declare-styleable>
+    
+    <declare-styleable name="LoadingView">
+        <attr name="loadingText" format="string"/>
+    </declare-styleable>
+
+    <attr name="jetColor" format="color|reference"/>
+    <attr name="greyColor" format="color|reference"/>
+    <attr name="toolbarColor" format="color|reference"/>
+    <attr name="iconTintColor" format="color|reference"/>
+    <attr name="dividerColor" format="color|reference"/>
+    <attr name="alertDialogBackgroundColor" format="color|reference"/>
+
+    <attr name="menuHeaderBackgroundColor" format="color|reference"/>
+    <attr name="jobLayoutBackgroundColor" format="color|reference" />
+
+    <attr name="listItemBackgroundColor" format="color|reference"/>
+    <attr name="listItemBackgroundDarkColor" format="color|reference"/>
+
+    <attr name="inputSearchEditTextColor" format="color|reference"/>
+    <attr name="inputSearchEditTextHintColor" format="color|reference"/>
+    <attr name="inputSearchEditTextBackgroundColor" format="color|reference"/>
+
+    <attr name="bottomBarBackgroundColor" format="color|reference"/>
+    <attr name="bottomBarButtonIconTintColor" format="color|reference"/>
+    <attr name="bottomBarButtonBackgroundTintColor" format="color|reference"/>
+
+    <attr name="myMessageColor" format="color|reference"/>
+    <attr name="centerMessageColor" format="color|reference"/>
+    <attr name="msgCenterSendBtnState1Color" format="color|reference"/>
+    <attr name="msgCenterSendBtnState2Color" format="color|reference"/>
+    <attr name="messageCenterInputBackgroundColor" format="color|reference"/>
+    <attr name="messageCenterSendButtonIconTintColor" format="color|reference"/>
+
+    <attr name="declineOfferButtonColor" format="color|reference"/>
+    <attr name="declineOfferButtonTextIconColor" format="color|reference"/>
+
+    <attr name="signaturePenColor" format="color|reference"/>
+</resources>

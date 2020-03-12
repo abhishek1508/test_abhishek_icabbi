@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/dark_mint</color>
+    <color name="colorPrimaryVariant">@color/dark_blue_grey_two</color>
+    <color name="colorOnPrimary">@color/white</color>
+    <color name="colorPrimaryDark">#20202d</color>
+    <color name="colorSecondary">@color/dark_mint</color>
+    <color name="colorSecondaryVariant">@color/black</color>
+    <color name="colorOnSecondary">@color/white</color>
+    <color name="colorBackground">@color/pale_lilac</color>
+    <color name="colorOnBackground">@color/black</color>
+    <color name="colorSurface">@color/white</color>
+    <color name="colorOnSurface">@color/charcoal_grey</color>
+    <color name="colorError">@color/faded_red</color>
+    <color name="colorOnError">@color/white</color>
+
+    <color name="textColorHint">@color/steel</color>
+
+    <color name="inputSearchEditTextColor">@color/charcoal_grey</color>
+    <color name="inputSearchEditTextHintColor">@color/steel_35opacity</color>
+    <color name="inputSearchEditTextBackgroundColor">@color/white</color>
+
+    <color name="bottomBarBackgroundColor">@color/white</color>
+    <color name="bottomBarButtonIconTintColor">@color/charcoal_grey</color>
+    <color name="bottomBarButtonBackgroundTintColor">@color/white</color>
+
+    <color name="messageCenterInputBackgroundColor">@color/very_light_pink_other</color>
+    <color name="messageCenterSendButtonIconTintColor">@color/azul</color>
+
+    <color name="colorButtonPrimary">@color/dark_mint</color>
+    <color name="colorButtonPrimaryText">@color/white</color>
+    <color name="colorButtonSecondary">@color/pale_grey_other</color>
+    <color name="colorButtonSecondaryText">@color/azul</color>
+    <color name="colorButtonStatus">@color/pale_grey_other</color>
+    <color name="colorButtonStatusText">@color/azul</color>
+    <color name="colorButtonDisabled">@color/ice_blue</color>
+    <color name="colorButtonStatusDisabled">@color/slate_grey</color>
+    <color name="colorButtonTextDisabled">@color/steel</color>
+    <color name="colorButtonStatusTextDisabled">@color/pale_grey_two</color>
+
+    <color name="declineOfferButtonColor">@color/charcoal_grey</color>
+    <color name="declineOfferButtonTextIconColor">@color/white</color>
+
+    <color name="alertDialogBackgroundColor">@color/white</color>
+    <color name="alertDialogBackgroundTextButtonColor">@color/azul</color>
+
+    <color name="dividerColor">@color/ice_blue</color>
+
+    <color name="tabIndicatorColor">@color/charcoal_grey</color>
+    <color name="tabSelectedTextColor">@color/charcoal_grey</color>
+    <color name="tabTextColor">@color/steel_35opacity</color>
+
+    <color name="textColorGrey">@color/steel</color>
+    <color name="listTitleItemBackgroundColor">@color/pale_lilac</color>
+    <color name="chevronColor">@color/cloudy_blue</color>
+
+    <color name="jobFabBackgroundColor">@color/white</color>
+
+    <color name="jobLayoutBackgroundColor">@color/white</color>
+    <color name="chipBackgroundColor">@color/pale_lilac</color>
+    <color name="cardBackgroundColor">@color/white</color>
+    <color name="iconTintColor">@color/charcoal_grey</color>
+    <color name="listItemBackgroundColor">#ffffff</color>
+
+    <color name="colorButtonMessageCenter">@color/pale_grey_other</color>
+    <color name="colorButtonMessageCenterText">@color/azul</color>
+    <color name="colorButtonJobOffer">@color/pale_grey</color>
+    <color name="colorButtonBidOffer">@color/ice</color>
+    <color name="colorButtonJobOfferText">@color/clear_blue</color>
+    <color name="colorButtonBidOfferText">@color/dark_mint</color>
+    <color name="colorButtonPanicDeactivate">@color/very_light_pink</color>
+    <color name="colorMessageCenterHeaderBg">@color/ice_blue</color>
+    <color name="colorMessageCenterHeaderText">@color/bluey_grey</color>
+
+    <color name="colorPreferenceHeaderBg">@color/ice_blue</color>
+    <color name="colorPreferenceHeaderText">@color/bluey_grey</color>
+    <color name="colorPreferenceTitleText">#000000</color>
+    <color name="colorPreferenceSummaryText">#696969</color>
+
+    <color name="colorAlertInform">@color/azul</color>
+    <color name="colorAlertWarning">@color/amber</color>
+    <color name="colorAlertError">#CA1A2F</color>
+    <color name="colorAlertLongBreakAfterShort">@color/charcoal_grey</color>
+    <color name="colorAlertSuccess">@color/dark_mint</color>
+    <color name="colorAlertPanicDeactivated">@color/dark_mint</color>
+
+    <color name="msgCenterSendBtnState1Color">@color/white</color>
+    <color name="msgCenterSendBtnState2Color">@color/clear_blue</color>
+
+    <color name="colorZoneStatusActive">@color/dark_mint</color>
+    <color name="colorZoneStatusInactive">#acb0b4</color>
+    <color name="colorBottomBarBackground">@color/white</color>
+
+    <!-- old colour palette to be removed-->
+    <color name="bluey_grey">#8590a6</color>
+    <color name="charcoal_grey_opacity_80">#CC333347</color>
+    <color name="clear_blue">#247dff</color>
+    <color name="dark_blue_grey_two">#182c42</color>
+    <color name="faded_red_two">#d94c5d</color>
+    <color name="amber">#FF9800</color>
+    <color name="pill_divider_gray">#d8d8d8</color>
+    <color name="progress_background">#CC333347</color>
+    <color name="panic_red">#e33941</color>
+    <!--    end of old colour palette-->
+
+    <color name="battleship_grey">#6d7073</color>
+    <color name="black">#000000</color>
+    <color name="steel_35opacity">#597d8083</color>
+    <color name="dusty_orange">#ff802e</color>
+    <color name="steel">#7d8083</color>
+    <color name="cloudy_blue">#bbc0c5</color>
+    <color name="charcoal_grey">#333347</color>
+    <color name="jet">#242432</color>
+    <color name="light_pink">#fcebec</color>
+    <color name="dark_periwinkle">#6b64d1</color>
+    <color name="very_light_pink">#fff2ea</color>
+    <color name="pale_grey">#f0f0fa</color>
+    <color name="ice">#edfaef</color>
+    <color name="ice_blue">#eaf0f6</color>
+    <color name="white">#ffffff</color>
+    <color name="pale_grey_other">#e9f1fc</color>
+    <color name="pale_lilac">#ebebed</color>
+    <color name="dark_mint">#47d061</color>
+    <color name="medium_green">#3cb153</color>
+    <color name="macaroni_and_cheese">#f2c940</color>
+    <color name="faded_red">#e33941</color>
+    <color name="azul">#2371e4</color>
+    <color name="light_periwinkle">#dae0e6</color>
+    <color name="steel_other">#82828e</color>
+    <color name="very_light_pink_other">#eaeaea</color>
+    <color name="slate_grey">#686876</color>
+    <color name="dark">#242433</color>
+    <color name="pale_grey_two">#f5f5f6</color>
+    <color name="slate_grey_two">#4e4d65</color>
+    <color name="very_light_pink_35opacity">#59fff2ea</color>
+    <color name="light_steel">#b4b7b9</color>
+    <color name="light_grey_blue">#acb0b4</color>
+    <color name="light_grey_blue_two">#b6b6bd</color>
+
+</resources>

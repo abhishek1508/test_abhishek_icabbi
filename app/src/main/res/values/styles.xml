@@ -1,0 +1,29 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+    </style>
+
+    <style name="NavigationTheme" parent="@style/NavigationViewLight">
+        <!-- The main turn banner view at the top of the screen -->
+        <!-- Background color of the banner -->
+        <item name="navigationViewBannerBackground">@color/jobLayoutBackgroundColor</item>
+        <!-- Color for the primary label that displays the turn name -->
+        <item name="navigationViewBannerPrimaryText">@color/colorPrimary</item>
+        <!-- Color for the secondary label that occasionally appears underneath the primary label -->
+        <item name="navigationViewBannerSecondaryText">@color/colorPrimary</item>
+        <!-- Primary color for the turn arrow icons-->
+        <item name="navigationViewBannerManeuverPrimary">@color/colorPrimary</item>
+        <!-- Secondary color for the turn arrow icons (e.g. the line segment that forks off) -->
+        <item name="navigationViewBannerManeuverSecondary">@color/colorPrimary</item>
+        <!-- Color for the main duration label in the summary view -->
+        <item name="navigationViewPrimaryText">@color/colorPrimary</item>
+        <!-- Color for the secondary distance and ETA label in the summary view -->
+        <item name="navigationViewSecondaryText">@color/colorPrimary</item>
+    </style>
+
+</resources>
